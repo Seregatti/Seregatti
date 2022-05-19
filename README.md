@@ -2,7 +2,7 @@
 - 👀 I’m interested in saber mais sobre programação
 - 🌱 I’m currently learning  mais sobre programação Python
 - 💞️ I’m looking to collaborate on Data Science
-- 📫 How to reach me ...
+- 📫 How to reach me : seregatti.h@gmail.com
 
 <!---
 Seregatti/Seregatti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
