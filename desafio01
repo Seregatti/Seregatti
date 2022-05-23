@@ -1,0 +1,15 @@
+import os
+os.system("cls") or None # comando para limpar a tela do terminal
+
+a = 2
+b = 4
+c = 1
+
+delta = -b**2 - 4 * a * c
+print(delta)
+
+x1 = -b + (delta) / (2 * a)
+print(x1)
+
+x2 = -b - (delta) / (2 * a)
+print(x2)
